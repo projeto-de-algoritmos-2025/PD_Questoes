@@ -13,7 +13,7 @@
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| [-](-) |  Difícil|[clique aqui](-) |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |  Difícil|[clique aqui](-) |
 | [-](-) |  Difícil|[clique aqui](-) |
 | - |  Difícil|[clique aqui]- |
 
@@ -24,10 +24,10 @@ Screenshots do resultado das submissões das questões no leetcode.
 Questão: 1
 
 
-<!-- Questão: 218.The_Skyline_Problem
+Questão: 1235. Maximum Profit in Job Scheduling
 <div align="center">
-    <img src="./218.The_Skyline_Problem/image.png" alt="The Skyline Problem Screenshot" width="600">
-</div>  -->
+    <img src="./1235. Maximum Profit in Job Scheduling/image.png" alt="Maximum Profit in Job Scheduling Screenshot" width="600">
+</div> 
 
 
 Questão: 2
