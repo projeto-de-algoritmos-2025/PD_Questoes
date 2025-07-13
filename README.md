@@ -14,7 +14,7 @@
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |  Difícil|[clique aqui](-) |
-| [-](-) |  Difícil|[clique aqui](-) |
+| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |  Difícil|[clique aqui](-) |
 | - |  Difícil|[clique aqui]- |
 
 
@@ -33,10 +33,10 @@ Questão: 1235. Maximum Profit in Job Scheduling
 Questão: 2
 
 
-<!-- Questão:295.Find_Median_from_Data_Stream
+Questão:123. Best Time to Buy and Sell Stock III
 <div align="center">
-    <img src="./295.Find_Median_from_Data_Stream/image.png" alt="Find Median from Data Stream Screenshot" width="600">
-</div> -->
+    <img src="./123. Best Time to Buy and Sell Stock III/image.png" alt="Best Time to Buy and Sell Stock III Screenshot" width="600">
+</div> 
 
 
 Questão: 3
