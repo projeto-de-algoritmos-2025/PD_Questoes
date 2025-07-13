@@ -13,8 +13,8 @@
 
 |Problema | Dificuldade |Vìdeo |
 | -- | -- |-- |
-| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |  Difícil|[clique aqui](-) |
-| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |  Difícil|[clique aqui](-) |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) |  Difícil|[clique aqui](https://youtu.be/mHFJ2i0RlBs) |
+| [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |  Difícil|[clique aqui](https://youtu.be/DGhcvJOKxMk) |
 | - |  Difícil|[clique aqui]- |
 
 
